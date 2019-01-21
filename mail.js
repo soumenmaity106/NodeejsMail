@@ -5,8 +5,8 @@ const sgTransport = require('nodemailer-sendgrid-transport');
 
 const option = {
     auth:{
-        api_user: 'soumen.ncrt@gmail.com',
-        api_key:'Patibunia@556'
+        api_user: '',
+        api_key:''
     }
 }
 
